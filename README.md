@@ -1,0 +1,2 @@
+# DjangoXreactFullStackAppFirst
+DjangoXreactFullStackAppFirst
